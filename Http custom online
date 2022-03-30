@@ -1,0 +1,5 @@
+CONNECT http://mobile.twitter.com:8 HTTP/1.1\r\nHost: [ip]\r\nUser-Agent: Mozilla/5.0 mini5-1.opera-mini.net
+[delay_split] HTTP/1.1 200 Connection established
+Host: mini5-1.opera-mini.net 
+HTTP/1.1 200 OK / lne-ilimitado
+host: mini5-1.opera-mini.net Proxy-Connection: keep-alive[crlf] User-Agent: [ua][crlf]content-Length: 999999999[crlf]
